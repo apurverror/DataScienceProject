@@ -6,7 +6,7 @@ Stress_dataset: Dataset of stress it contains 6 csv files. SurveyResults.xlsx: A
 survey results and stress level DataScienceAssignment.ipynb: Jupyter Notebook contains plots and
 accuracy of the data DataScienceAssignment.py: Python file (Downloaded from Jupyter Notebook)
 
-#How to Run the Code
+# How to Run the Code
 Clone the repository.
 Open the Jupyter Notebook and install the required dependencies and packages if any missing using
 !pip install.
