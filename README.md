@@ -13,19 +13,17 @@ This repository contains a dataset and code for analyzing stress levels among pa
 
 Follow these steps to execute the analysis and replicate the results:
 
-1. **Clone the Repository**: Start by cloning this repository to your local machine using the following command:
+1. **Download the Dataset**: Download the dataset using the following link: [Stress Dataset](https://zenodo.org/record/5514277)
 
-    ```bash
-    git clone https://zenodo.org/record/5514277#.ZEWeHHbMK3B.git
-    ```
+2. **Clone the Repository**: Clone or download this repository to your local machine.
 
-2. **Install Dependencies**: Open a terminal or command prompt, navigate to the cloned repository folder, and install the required dependencies and packages if any are missing. You can use the following command to install dependencies using pip:
+3. **Install Dependencies**: Open a terminal or command prompt, navigate to the cloned repository folder, and install the required dependencies and packages if any are missing. You can use the following command to install dependencies using pip:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-3. **Run the Notebook**: Launch Jupyter Notebook by typing the following command in the terminal:
+4. **Run the Notebook**: Launch Jupyter Notebook by typing the following command in the terminal:
 
     ```bash
     jupyter notebook
@@ -33,16 +31,12 @@ Follow these steps to execute the analysis and replicate the results:
 
    Navigate to the repository folder and open the `DataScienceAssignment.ipynb` notebook. Run each cell in the notebook sequentially by pressing Shift + Enter or by clicking the Run button in the toolbar.
 
-4. **Review Results**: After running all the cells in the notebook, review the generated visualizations, analysis, and accuracy assessment. Make sure that the results match your expectations and are correct.
+5. **Review Results**: After running all the cells in the notebook, review the generated visualizations, analysis, and accuracy assessment. Make sure that the results match your expectations and are correct.
 
-5. **Save the Notebook**: If you have made any changes or notes during your review, save the notebook to preserve your observations.
+6. **Save the Notebook**: If you have made any changes or notes during your review, save the notebook to preserve your observations.
 
 ## Note
 
 - The analysis provided in the Jupyter Notebook aims to explore the stress levels among participants based on survey responses. It includes data preprocessing, visualization, and potentially some machine learning or statistical analysis to predict stress levels.
 - The provided Python script `DataScienceAssignment.py` is extracted from the Jupyter Notebook and can be used to run the analysis in environments that do not support Jupyter Notebooks.
 - Ensure that you have Python and Jupyter Notebook installed on your machine before attempting to run the analysis.
-
-For any questions, issues, or improvements related to this repository, feel free to contact [your contact information here].
-
----
